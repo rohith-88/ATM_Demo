@@ -2,22 +2,22 @@
 
 ## Project Structure
 
-ATM_Demo/
-├── database/
-│ ├── Account.java
-│ └── AccountInfo/
-│ └── qwefty.txt
-├── services/
-│ ├── Authentication.java
-│ ├── CreatingAccount.java
-│ ├── Cryptography.class
-│ ├── Cryptography.java
-│ ├── Enquiry.java
-│ ├── Transfer.java
-│ └── Updation.java
-└── userInterface/
-├── MainClass.java
-└── UserFunctions.java
+ATM_Demo/<br>
+├── database/<br>
+│ ├── Account.java<br>
+│ └── AccountInfo/<br>
+│ └── qwefty.txt<br>
+├── services/<br>
+│ ├── Authentication.java<br>
+│ ├── CreatingAccount.java<br>
+│ ├── Cryptography.class<br>
+│ ├── Cryptography.java<br>
+│ ├── Enquiry.java<br>
+│ ├── Transfer.java<br>
+│ └── Updation.java<br>
+└── userInterface/<br>
+├── MainClass.java<br>
+└── UserFunctions.java<br>
 
 ## Description
 
